@@ -1,0 +1,24 @@
+[22-Nov-2019 17:15:09 UTC] PHP Fatal error:  Uncaught MailPoetVendor\Sabberworm\CSS\Parsing\SourceException: Unexpected end of document [line no: 78] in /home1/rxpjfcmy/public_html/thenobisfoundation/wp-content/plugins/mailpoet/vendor-prefixed/sabberworm/php-css-parser/lib/Sabberworm/CSS/Parser.php:118
+Stack trace:
+#0 /home1/rxpjfcmy/public_html/thenobisfoundation/wp-content/plugins/mailpoet/vendor-prefixed/sabberworm/php-css-parser/lib/Sabberworm/CSS/Parser.php(214): MailPoetVendor\Sabberworm\CSS\Parser->parseList(Object(MailPoetVendor\Sabberworm\CSS\CSSList\AtRuleBlockList))
+#1 /home1/rxpjfcmy/public_html/thenobisfoundation/wp-content/plugins/mailpoet/vendor-prefixed/sabberworm/php-css-parser/lib/Sabberworm/CSS/Parser.php(124): MailPoetVendor\Sabberworm\CSS\Parser->parseAtRule()
+#2 /home1/rxpjfcmy/public_html/thenobisfoundation/wp-content/plugins/mailpoet/vendor-prefixed/sabberworm/php-css-parser/lib/Sabberworm/CSS/Parser.php(100): MailPoetVendor\Sabberworm\CSS\Parser->parseListItem(Object(MailPoetVendor\Sabberworm\CSS\CSSList\Document), true)
+#3 /hom in /home1/rxpjfcmy/public_html/thenobisfoundation/wp-content/plugins/mailpoet/vendor-prefixed/sabberworm/php-css-parser/lib/Sabberworm/CSS/Parser.php on line 118
+[22-Nov-2019 17:15:17 UTC] PHP Fatal error:  Uncaught MailPoetVendor\Sabberworm\CSS\Parsing\SourceException: Unexpected end of document [line no: 78] in /home1/rxpjfcmy/public_html/thenobisfoundation/wp-content/plugins/mailpoet/vendor-prefixed/sabberworm/php-css-parser/lib/Sabberworm/CSS/Parser.php:118
+Stack trace:
+#0 /home1/rxpjfcmy/public_html/thenobisfoundation/wp-content/plugins/mailpoet/vendor-prefixed/sabberworm/php-css-parser/lib/Sabberworm/CSS/Parser.php(214): MailPoetVendor\Sabberworm\CSS\Parser->parseList(Object(MailPoetVendor\Sabberworm\CSS\CSSList\AtRuleBlockList))
+#1 /home1/rxpjfcmy/public_html/thenobisfoundation/wp-content/plugins/mailpoet/vendor-prefixed/sabberworm/php-css-parser/lib/Sabberworm/CSS/Parser.php(124): MailPoetVendor\Sabberworm\CSS\Parser->parseAtRule()
+#2 /home1/rxpjfcmy/public_html/thenobisfoundation/wp-content/plugins/mailpoet/vendor-prefixed/sabberworm/php-css-parser/lib/Sabberworm/CSS/Parser.php(100): MailPoetVendor\Sabberworm\CSS\Parser->parseListItem(Object(MailPoetVendor\Sabberworm\CSS\CSSList\Document), true)
+#3 /hom in /home1/rxpjfcmy/public_html/thenobisfoundation/wp-content/plugins/mailpoet/vendor-prefixed/sabberworm/php-css-parser/lib/Sabberworm/CSS/Parser.php on line 118
+[22-Nov-2019 17:15:23 UTC] PHP Fatal error:  Uncaught MailPoetVendor\Sabberworm\CSS\Parsing\SourceException: Unexpected end of document [line no: 78] in /home1/rxpjfcmy/public_html/thenobisfoundation/wp-content/plugins/mailpoet/vendor-prefixed/sabberworm/php-css-parser/lib/Sabberworm/CSS/Parser.php:118
+Stack trace:
+#0 /home1/rxpjfcmy/public_html/thenobisfoundation/wp-content/plugins/mailpoet/vendor-prefixed/sabberworm/php-css-parser/lib/Sabberworm/CSS/Parser.php(214): MailPoetVendor\Sabberworm\CSS\Parser->parseList(Object(MailPoetVendor\Sabberworm\CSS\CSSList\AtRuleBlockList))
+#1 /home1/rxpjfcmy/public_html/thenobisfoundation/wp-content/plugins/mailpoet/vendor-prefixed/sabberworm/php-css-parser/lib/Sabberworm/CSS/Parser.php(124): MailPoetVendor\Sabberworm\CSS\Parser->parseAtRule()
+#2 /home1/rxpjfcmy/public_html/thenobisfoundation/wp-content/plugins/mailpoet/vendor-prefixed/sabberworm/php-css-parser/lib/Sabberworm/CSS/Parser.php(100): MailPoetVendor\Sabberworm\CSS\Parser->parseListItem(Object(MailPoetVendor\Sabberworm\CSS\CSSList\Document), true)
+#3 /hom in /home1/rxpjfcmy/public_html/thenobisfoundation/wp-content/plugins/mailpoet/vendor-prefixed/sabberworm/php-css-parser/lib/Sabberworm/CSS/Parser.php on line 118
+[22-Nov-2019 17:15:27 UTC] PHP Fatal error:  Uncaught MailPoetVendor\Sabberworm\CSS\Parsing\SourceException: Unexpected end of document [line no: 78] in /home1/rxpjfcmy/public_html/thenobisfoundation/wp-content/plugins/mailpoet/vendor-prefixed/sabberworm/php-css-parser/lib/Sabberworm/CSS/Parser.php:118
+Stack trace:
+#0 /home1/rxpjfcmy/public_html/thenobisfoundation/wp-content/plugins/mailpoet/vendor-prefixed/sabberworm/php-css-parser/lib/Sabberworm/CSS/Parser.php(214): MailPoetVendor\Sabberworm\CSS\Parser->parseList(Object(MailPoetVendor\Sabberworm\CSS\CSSList\AtRuleBlockList))
+#1 /home1/rxpjfcmy/public_html/thenobisfoundation/wp-content/plugins/mailpoet/vendor-prefixed/sabberworm/php-css-parser/lib/Sabberworm/CSS/Parser.php(124): MailPoetVendor\Sabberworm\CSS\Parser->parseAtRule()
+#2 /home1/rxpjfcmy/public_html/thenobisfoundation/wp-content/plugins/mailpoet/vendor-prefixed/sabberworm/php-css-parser/lib/Sabberworm/CSS/Parser.php(100): MailPoetVendor\Sabberworm\CSS\Parser->parseListItem(Object(MailPoetVendor\Sabberworm\CSS\CSSList\Document), true)
+#3 /hom in /home1/rxpjfcmy/public_html/thenobisfoundation/wp-content/plugins/mailpoet/vendor-prefixed/sabberworm/php-css-parser/lib/Sabberworm/CSS/Parser.php on line 118
